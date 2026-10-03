@@ -214,4 +214,4 @@ World of Warcraft is provided as a full free version, including all features and
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-03 12:13:32 UTC
+**Last updated:** 2026-10-03 16:58:41 UTC
